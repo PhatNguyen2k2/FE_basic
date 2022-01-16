@@ -1,0 +1,14 @@
+form {
+    width: 450px;
+    height: 450px;
+    margin: auto;
+    text-align: center;
+    background-color: #8258fa;
+  }
+  table {
+    width: 350px;
+  }
+  .ps {
+    text-indent: 95px;
+    text-align: left;
+  }

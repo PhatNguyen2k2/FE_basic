@@ -1,0 +1,70 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+table {
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+  line-height: 20px;
+}
+.tab {
+  overflow: hidden;
+  border: 3px solid #ccc;
+  background-color: #f1f1f1;
+  margin-left: auto;
+  margin-right: auto;
+  width: 640px;
+  height: 730px;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+#tb1 .tb11 {
+  text-align: left;
+  background-color: #a9d0f5;
+}
+#tb1 .tb12 {
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+
+  border: 1px solid #e2a9f3;
+}
+#tb2 .tb21 {
+  background-color: #a9d0f5;
+  text-align: right;
+}
+#tb2 .tb22 {
+  border: 1px solid #e2a9f3;
+}
+#tb3 .tb31 {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  border: 1px solid #e2a9f3;
+}
+#tb3 .tb32 {
+  background-color: #e2a9f3;
+}
+#tb4 .tb41 {
+  background-color: #e2a9f3;
+  text-align: right;
+}
+#tb4 .tb42 {
+  border: 1px solid #e2a9f3;
+}
+#tb5 .tb51 {
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  border: 1px solid #e2a9f3;
+}
+#tb5 .tb52 {
+  background-color: #5e610b;
+}
+#tb6 .tb61 {
+  background-color: #5e610b;
+  text-align: right;
+}
+#tb6 .tb61 {
+  border: 1px solid #e2a9f3;
+}

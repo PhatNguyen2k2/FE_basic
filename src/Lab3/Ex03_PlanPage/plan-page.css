@@ -1,0 +1,17 @@
+article {
+  float: left;
+  width: 33.33%;
+  background-color: rgb(36, 33, 33);
+  color: white;
+  width: 300px;
+  height: 350px;
+  text-align: center;
+}
+.price {
+  color: green;
+  font-size: 30px;
+}
+button {
+  color: white;
+  background-color: rgb(30, 179, 129);
+}

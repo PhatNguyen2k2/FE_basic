@@ -1,0 +1,20 @@
+form {
+    width: 500px;
+    margin: auto;
+  }
+  .ps {
+    text-align: right;
+  }
+  input {
+    background-color: #fee3ac;
+    border-color: #fe2ef7;
+  }
+  textarea {
+    background-color: #fee3ac;
+    border-color: #fe2ef7;
+  }
+  select {
+    background-color: #fee3ac;
+    border-color: #fe2ef7;
+    color: #fe2ef7;
+  }
